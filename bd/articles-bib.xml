@@ -2,18 +2,59 @@
   <Ressources>
     <Article>
       <Titre>SARS-CoV-2 Naturally Acquired Immunity vs. Vaccine-induced Immunity, Reinfections versus Breakthrough Infections: a Retrospective Cohort Study</Titre>
+      <TitreFR>L'immunité naturelle après une infection covid19 est plus forte que le vaccin covid19</TitreFR>
       <Auteurs>
         <Nom>Sivan Gazit</Nom>
-        <Nom>&amp; al.</Nom>
+        <Nom>al.</Nom>
       </Auteurs>
       <Source>Clinical Infectious Diseases</Source>
       <Rubrique>Science</Rubrique>
       <Tag>étude rétrospective observationnelle</Tag>
+      <Page>
+        <Lien>https://pubmed.ncbi.nlm.nih.gov/35380632/</Lien>
+      </Page>
       <Presentation>
-        <p>L'immunité naturelle après une infection covid19 est plus forte que le vaccin covid19.</p>
-        <p>Nouvelle étude israélienne : l’immunité naturelle est jusqu’à 10 fois supérieure après récupération qu’après le vaccin.</p>
+        <p>D'après cette étude israélienne l’immunité naturelle est jusqu’à 10 fois supérieure après récupération qu’après le vaccin.</p>
       </Presentation>
+      <Ajout>2022-05-08</Ajout>
       <Publication>2022-04-05</Publication>
+    </Article>
+    <Article>
+      <Titre>A Case of Antineutrophil Cytoplasmic Antibodies (ANCA)-Associated Vasculitis Post COVID-19 Vaccination</Titre>
+      <TitreFR>Un cas de vascularite associée aux anticorps cytoplasmiques antineutrophiles (ANCA) post vaccin</TitreFR>
+      <Auteurs>
+        <Nom>Al-Yafeai Z</Nom>
+        <Nom>al.</Nom>
+      </Auteurs>
+      <Source>Cureus 14(3)</Source>
+      <Rubrique>Science</Rubrique>
+      <Tag>rapport</Tag>
+      <Tag>Pfizer</Tag>
+      <Page>
+        <Lien>https://www.cureus.com/articles/86872-a-case-of-antineutrophil-cytoplasmic-antibodies-anca-associated-vasculitis-post-covid-19-vaccination</Lien>
+      </Page>
+      <Presentation>
+        <p>Une femme de 62 ans qui a reçu la première dose de Pfizer en juillet 2021 présenter quelques semaines plus tard une polyarthralgie migrante et une hémoptysie. Alors la polyarthralgie se définit par une douleur présente dans au moins 5 articulations du corps. Et L'hémoptysie est définie comme une expectoration de sang provenant des voies respiratoires inférieures.</p>
+      </Presentation>
+      <Ajout>2022-05-09</Ajout>
+      <Publication>2022-03-14</Publication>
+    </Article>
+    <Article>
+      <Titre>Efficacy and Safety of Vitamin D Supplementation to Prevent COVID-19 in Frontline Healthcare Workers. A Randomized Clinical Trial</Titre>
+      <TitreFR>4 fois moins d'infections covid en prenant un supplément vitamine D3 à la bonne dose en traitement préventif</TitreFR>
+      <Auteurs>
+        <Nom>Miguel AVillasis-Keever</Nom>
+        <Nom>al.</Nom>
+      </Auteurs>
+      <Source>Archives of Medical Research</Source>
+      <Rubrique>Science</Rubrique>
+      <Tag>essai clinique contrôlé et randomisé</Tag>
+      <Page>
+        <Lien>https://www.sciencedirect.com/science/article/pii/S0188440922000455</Lien>
+      </Page>
+      <Presentation/>
+      <Ajout>2022-04-19</Ajout>
+      <Publication>2022-04-18</Publication>
     </Article>
   </Ressources>
 </Bibliotheque>
